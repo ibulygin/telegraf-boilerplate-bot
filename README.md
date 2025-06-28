@@ -1,10 +1,5 @@
 # Template for starting a Telegram bot based on Telegraf.js
 
-## Installing dependencies
-```shell
-cd js-training-tasks
-```
-
 ## Add a .env file to the root of the project and specify the token for your bot.
 ```shell
 TOKEN=
